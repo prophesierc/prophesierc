@@ -19,3 +19,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prophesierc&show_icons=true&locale=en" alt="prophesierc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prophesierc&" alt="prophesierc" /></p>
+## Author
+
+</br>
+
+**ProphesierC**
+
+</br>
+
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+
+💻 [Email]([mailto:bwknowles98@gmail.com](mailto:bwknowles98@gmail.com)?subject=Hi%20from%20Project%20Initiator "Hi!")
+
+https://stats.quine.sh/prophesierc/languages-over-time?theme=dark
