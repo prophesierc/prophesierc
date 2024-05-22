@@ -28,10 +28,8 @@
   </a>
 </p>
 
-<div style="margin: 0 auto; text-align: center;">
-    <a href="https://stats.quine.sh/prophesierc/languages-over-time?theme=dark">
-        <img src="https://stats.quine.sh/prophesierc/languages-over-time?theme=dark" alt="prophesierc's GitHub | Languages Over Time" style="display: block;">
-    </a>
+<div align="center">
+  <img src="https://myreadme.vercel.app/api/embed/ProphesierC?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" style="display: block;"/>
 </div>
 
 <p align="center">
