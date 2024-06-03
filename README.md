@@ -28,13 +28,17 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://myreadme.vercel.app/api/embed/ProphesierC?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" style="display: block;"/>
-</div>
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api?username=prophesierc&show_icons=true&theme=dark&locale=en" alt="prophesierc" /></a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prophesierc&theme=dark" alt="prophesierc" />
+
+  <a href="https://github.com/prophesierc"><img src="https://github-readme-stats.vercel.app/api?username=prophesierc&show_icons=true&theme=highcontrast&locale=en&hide=stars,prs,contribs&include_all_commits=true&text_bold=true" alt="GitHub Stats" /></a>
+
+ <a href="https://github.com/prophesierc"><img src="https://github-readme-streak-stats.herokuapp.com?user=prophesierc&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=3D88FF" alt="GitHub Streak"/></a>
+
+  <a href="https://github.com/prophesierc"><img src="https://myreadme.vercel.app/api/embed/ProphesierC?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme"/>
+
+  <a href="https://github.com/prophesierc"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=prophesierc" alt="reimaginedreadme"/>
+
+
 </p>
 
 <h3 align="center">Connect with me:</h3>
