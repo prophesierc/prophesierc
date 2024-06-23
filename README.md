@@ -31,10 +31,6 @@
 <div align="center">
 
   <a href="https://github.com/prophesierc">
-    <img src="https://github-readme-stats.vercel.app/api?username=prophesierc&show_icons=true&theme=highcontrast&locale=en&hide=stars,prs,contribs&include_all_commits=true&text_bold=true" alt="GitHub Stats"/>
-  </a>
-
-  <a href="https://github.com/prophesierc">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=prophesierc&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=3D88FF" alt="GitHub Streak"/>
   </a>
 
