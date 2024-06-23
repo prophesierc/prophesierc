@@ -28,21 +28,22 @@
   </a>
 </p>
 
-<div align="center">
+<div style="text-align: center;">
 
   <a href="https://github.com/prophesierc">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=prophesierc&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=3D88FF" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=prophesierc&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=3D88FF" alt="GitHub Streak" style="width: 100%;"/>
   </a>
 
   <a href="https://github.com/prophesierc">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prophesierc" alt="reimaginedreadme"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prophesierc" alt="reimaginedreadme" style="width: 100%;"/>
   </a>
 
   <a href="https://github.com/prophesierc">
-    <img src="https://myreadme.vercel.app/api/embed/ProphesierC?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme"/>
+    <img src="https://myreadme.vercel.app/api/embed/ProphesierC?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" style="width: 100%;"/>
   </a>
 
 </div>
+
 
 
 <h3 align="center">Connect with me:</h3>
