@@ -39,11 +39,10 @@
   </a>
 
   <a href="https://github.com/prophesierc">
-    <img src="https://myreadme.vercel.app/api/embed/ProphesierC?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" style="width: 100%;"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=prophesierc&theme=github-compact" alt="github-readme-activity-graph" style="width: 100%;"/>
   </a>
-
+  
 </div>
-
 
 
 <h3 align="center">Connect with me:</h3>
