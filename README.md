@@ -23,8 +23,8 @@
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="js"/>
   </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB" alt="react"/>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" height="22px"/>
   </a>
 </p>
 
