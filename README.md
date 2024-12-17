@@ -26,24 +26,13 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" height="22px"/>
   </a>
-</p>
-
-<div style="text-align: center;">
-
-  <a href="https://github.com/prophesierc">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=prophesierc&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=3D88FF" alt="GitHub Streak" style="width: 100%;"/>
-  </a>
-
-  <a href="https://github.com/prophesierc">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prophesierc" alt="reimaginedreadme" style="width: 100%;"/>
-  </a>
-
-  <a href="https://github.com/prophesierc">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=prophesierc&theme=github-compact" alt="github-readme-activity-graph" style="width: 100%;"/>
-  </a>
+</p>    
   
-</div>
-
+  <div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prophesierc" alt="reimaginedreadme" style="width: 100%;"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=prophesierc&theme=github-compact" alt="github-readme-activity-graph" style="width: 100%;"/>
+    <img src="https://streak-stats.demolab.com?user=prophesierc&theme=dark-minimalist&mode=weekly" alt="GitHub Streak" style="width: 100%;"/>
+  </div>
 
 <h3 align="center">Connect with me:</h3>
 
