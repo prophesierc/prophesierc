@@ -1,9 +1,5 @@
 <h1 align="center">ProphesierC</h1>
 <h3 align="center">Web dev desperate to feed my cat</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prophesierc&label=Profile%20views&color=0e75b6&style=flat" alt="prophesierc" />
-</p>
 <p align="center">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HMTL5"/>
